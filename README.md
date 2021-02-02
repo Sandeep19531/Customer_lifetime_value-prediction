@@ -18,6 +18,6 @@ Python
 8. Random Forest
 9. K means  
 ## Dataset Used
-Online Retail Dataset from UCI Machine Repository was used. [Link](https://archive.ics.uci.edu/ml/datasets/online+retail)  
+Online Retail Dataset from UCI Machine Repository was used. <a href="https://archive.ics.uci.edu/ml/datasets/online+retail" target="_blank">Link</a>  
 ## Reference Resources  
-[Kaggle Notebook](https://www.kaggle.com/shailaja4247/customer-lifetime-value-prediction)
+<a href="https://www.kaggle.com/shailaja4247/customer-lifetime-value-prediction" target="_blank">Kaggle Notebook</a>
